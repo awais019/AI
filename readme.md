@@ -5,6 +5,7 @@ This repository contains the code from CS50's Introduction to Artificial Intelli
 ## Table of Contents
 
 - [Week 0](#week-0)
+- [Week 1](#week-1)
 
 ## Week 0
 
@@ -12,3 +13,12 @@ This repository contains the code from CS50's Introduction to Artificial Intelli
 
 - Depth-first search
 - Breadth-first search
+
+## Week 1
+
+### Knowledge
+
+- Propositional logic
+- Model checking
+- Infernce Rules
+- First-order logic
